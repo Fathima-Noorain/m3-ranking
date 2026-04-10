@@ -1,0 +1,63 @@
+body{
+    background-color:rgb(173, 227, 238)
+}
+
+
+
+img{
+    
+    
+   padding: 10px;
+   color: #2b2839;
+   margin-left: 0px;
+   margin-right: auto;
+   width: 200px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 00px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  padding-top: 0%;
+
+}
+.fst{
+    h2{
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        margin-left: 20px;
+    }
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.snd{
+    h2{
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        margin-left: 20px;
+    }
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 20px;
+
+}
+.trd{
+    h2{
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        margin-left: 20px;
+    }
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 20px;
+
+}
